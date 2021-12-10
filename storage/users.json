@@ -1,0 +1,26 @@
+{
+    "vasya": {
+        "age": 20,
+        "city": "kiev"
+    },
+    "Max": {
+        "age": 1,
+        "city": "kyiv"
+    },
+    "Sam": {
+        "age": 12,
+        "city": "kyiv"
+    },
+    "John": {
+        "age": 22,
+        "city": "kyiv"
+    },
+    "Din": {
+        "age": 32,
+        "city": "kyiv"
+    },
+    "Daryna": {
+        "age": 20,
+        "city": "kyiv"
+    }
+}
